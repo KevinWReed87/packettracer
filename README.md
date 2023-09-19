@@ -50,6 +50,7 @@ I'll be making a simple home network using the cisco packet tracer tool.
 
 <h2>Configure the End Devices and Verify Connectivity</h2>
 
+- Configure the pc
 - Clicked on pc and opened desktop tab then ip configuration
 - Closed out of ip configuration then clicked on command prompt
 
@@ -66,6 +67,14 @@ I'll be making a simple home network using the cisco packet tracer tool.
 - Ping successful
 
 <img src="https://i.imgur.com/YX7LEba.png" height="80%" width="80%" alt="Disk Sanitization Steps"/></p>
+
+- Configure the laptop.
+- Click laptop and select physicl tab.
+- We're going to remove the ethernet module and replace it with a wireless module
+
+<img src="https://i.imgur.com/eWEXq7K.png" height="80%" width="80%" alt="Disk Sanitization Steps"/></p>
+<img src="https://i.imgur.com/AiNwUvn.png" height="80%" width="80%" alt="Disk Sanitization Steps"/></p>
+<img src="https://i.imgur.com/BWVovEL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/></p>
 
 
 
