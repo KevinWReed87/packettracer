@@ -63,6 +63,10 @@ I'll be making a simple home network using the cisco packet tracer tool.
 
 - Going to test connectivity to the cisco.srv from the PC
 - In command prompt type ping cisco.srv
+- Ping successful
+
+<img src="https://i.imgur.com/YX7LEba.png" height="80%" width="80%" alt="Disk Sanitization Steps"/></p>
+
 
 
 
