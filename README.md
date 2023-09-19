@@ -42,7 +42,7 @@ I'll be making a simple home network using the cisco packet tracer tool.
 
 - Now I will connect the modem to the cloud with a coaxial cable.
 - Use port 0 for the modem
-- Use coaxial 7 for the colud connection
+- Use coaxial 7 for the cloud connection
 
 <img src="https://i.imgur.com/1RhUUz2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/></p>
 <img src="https://i.imgur.com/XlNjWDQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/></p>
