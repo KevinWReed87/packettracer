@@ -48,6 +48,16 @@ I'll be making a simple home network using the cisco packet tracer tool.
 <img src="https://i.imgur.com/XlNjWDQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/></p>
 <img src="https://i.imgur.com/SgheCQI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/></p>
 
+<h2>Configure the End Devices and Verify Connectivity</h2>
+
+- Clicked on pc and opened desktop tab then ip configuration
+- Closed out of ip configuration then clicked on command prompt
+
+<img src="https://i.imgur.com/3RkFzRD.png" height="80%" width="80%" alt="Disk Sanitization Steps"/></p>
+<img src="https://i.imgur.com/SrHI96B.png" height="80%" width="80%" alt="Disk Sanitization Steps"/></p>
+<img src="https://i.imgur.com/gFGW0hw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/></p>
+
+
 
 
 
