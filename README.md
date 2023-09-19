@@ -33,6 +33,13 @@ I'll be making a simple home network using the cisco packet tracer tool.
 <img src="https://i.imgur.com/dvJEiy6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/></p>
 <img src="https://i.imgur.com/1elVJh3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/></p>
 
+- Now I will connect the wireless router to the cable modem.
+- I will use port 1 one the modem
+- Fast ethernet 2 port on the router
+
+<img src="https://i.imgur.com/Pwx717F.png" height="80%" width="80%" alt="Disk Sanitization Steps"/></p>
+<img src="https://i.imgur.com/UznWit1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/></p>
+
 
 
 
