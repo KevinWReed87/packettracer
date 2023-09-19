@@ -90,8 +90,14 @@ I'll be making a simple home network using the cisco packet tracer tool.
 
 <img src="https://i.imgur.com/qn2aAVp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/></p>
 <img src="https://i.imgur.com/Y5fmYVl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/></p>
+<img src="https://i.imgur.com/kj0WqAV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/></p>
 
+- Close PC Wireless. Select Web Browser in the Desktop tab.
+- In the Web Browser, navigate to cisco.srv.
+- Connection successful to cisco.srv through laptop.
 
+<img src="https://i.imgur.com/cSt4JZg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/></p>
+<img src="https://i.imgur.com/wNkV2Vq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/></p>
 
 
 
