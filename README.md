@@ -98,6 +98,6 @@ I'll be making a simple home network using the cisco packet tracer tool.
 
 <img src="https://i.imgur.com/cSt4JZg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/></p>
 <img src="https://i.imgur.com/wNkV2Vq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/></p>
-
+<img src="https://i.imgur.com/3jfx1BN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/></p>
 
 
