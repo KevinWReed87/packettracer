@@ -35,7 +35,7 @@ I'll be making a simple home network using the cisco packet tracer tool.
 
 - Now I will connect the wireless router to the cable modem.
 - I will use port 1 one the modem
-- Fast ethernet 2 port on the router
+- Internet port on the router
 
 <img src="https://i.imgur.com/Pwx717F.png" height="80%" width="80%" alt="Disk Sanitization Steps"/></p>
 <img src="https://i.imgur.com/UznWit1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/></p>
@@ -56,6 +56,13 @@ I'll be making a simple home network using the cisco packet tracer tool.
 <img src="https://i.imgur.com/3RkFzRD.png" height="80%" width="80%" alt="Disk Sanitization Steps"/></p>
 <img src="https://i.imgur.com/SrHI96B.png" height="80%" width="80%" alt="Disk Sanitization Steps"/></p>
 <img src="https://i.imgur.com/gFGW0hw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/></p>
+
+- In command prompt type ipconfig/all to review the IPv4 info
+
+<img src="https://i.imgur.com/Zl2z75C.png" height="80%" width="80%" alt="Disk Sanitization Steps"/></p>
+
+- Going to test connectivity to the cisco.srv from the PC
+- In command prompt type ping cisco.srv
 
 
 
