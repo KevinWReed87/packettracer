@@ -71,12 +71,25 @@ I'll be making a simple home network using the cisco packet tracer tool.
 - Configure the laptop.
 - Click laptop and select physicl tab.
 - We're going to remove the ethernet module and replace it with a wireless module
+- Remove ethernet module
 
 <img src="https://i.imgur.com/eWEXq7K.png" height="80%" width="80%" alt="Disk Sanitization Steps"/></p>
 <img src="https://i.imgur.com/AiNwUvn.png" height="80%" width="80%" alt="Disk Sanitization Steps"/></p>
 <img src="https://i.imgur.com/BWVovEL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/></p>
 
+- Install wireless module
+- Power on laptop
 
+<img src="https://i.imgur.com/2IafeWx.png" height="80%" width="80%" alt="Disk Sanitization Steps"/></p>
+
+- With module instaleed we need to connect laptop to the network
+- Click the laptop go to desktop then select pc wireless
+- Click the connect tab
+- Home Network
+- Then connect
+
+<img src="https://i.imgur.com/qn2aAVp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/></p>
+<img src="https://i.imgur.com/Y5fmYVl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/></p>
 
 
 
